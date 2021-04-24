@@ -1,0 +1,3 @@
+include ':autoscrollinglayout'
+include ':app'
+rootProject.name = "AutoScrollingLayout_BIBLIOTECA_ANTIGA_AJEITAR_PARA_ATUAL"
